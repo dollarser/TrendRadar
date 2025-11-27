@@ -101,8 +101,6 @@ platforms:
   # === 综合新闻媒体类 ===
   - id: "toutiao"
     name: "今日头条"
-  - id: "baidu"
-    name: "百度热搜"
   - id: "thepaper"
     name: "澎湃新闻"
   - id: "ifeng"
@@ -175,8 +173,6 @@ platforms:
   # === 其他/工具类 ===
   - id: "chongbuluo"
     name: "虫部落"
-  - id: "coolapk"
-    name: "酷安"
 
   # ======================================================
   # 暂时失败的渠道（可能需要修复或接口已变更）
